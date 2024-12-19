@@ -1,0 +1,14 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+datasets/
+data/
+.DS_Store
+notebooks/
+.ipynb_checkpoints
+*.pyc
+*.pkl
+output.out
+logs/
+model_checkpoints/
+wandb/
+playground/
+benchmarks/
